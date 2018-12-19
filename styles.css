@@ -1,0 +1,13 @@
+img {
+    height: 200px;
+}
+h1 {
+    color:white;
+}
+p {
+    color:white;
+}
+body {
+    text-align: center;
+    background-image: url("https://media.npr.org/assets/img/2016/10/26/cm-ss-00542_rs_20_wide-95bb985d74d2b45152d581f896ff6bb14a6e4e5a-s800-c85.jpg");
+}
